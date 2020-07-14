@@ -1042,3 +1042,8 @@ h4 {
         height: 80px;
     }
 }
+@media (max-width: 620px) {
+    .a-responsive {
+        margin: 0% 25%;
+    }
+}
